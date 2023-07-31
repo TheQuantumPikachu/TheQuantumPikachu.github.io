@@ -1,3 +1,17 @@
+@font-face {
+    font-family: "Ysabeau Office";
+    src: url("fonts/YsabeauOffice.ttf");
+}
+@font-face {
+    font-family: "Ysabeau Office Italic";
+    src: url("fonts/YsabeauOffice-Italic.ttf");
+}
+
 body {
     background-color:#000;
+}
+header {
+    color:#fff;
+    margin: 0 1vw;
+    font-family:"Ysabeau Office";
 }
