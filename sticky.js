@@ -1,0 +1,1 @@
+sticky = document.getElementsByTagName("header")[0];
